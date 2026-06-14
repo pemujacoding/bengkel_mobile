@@ -9,7 +9,7 @@ import '../models/sparepart_digunakan_model.dart';
 
 class ApiService {
   static const String baseUrl =
-      'https://bengkel-226557433828.us-central1.run.app/data';
+      'https://bengkel-39829692628.us-central1.run.app/data';
 
   // 1. Ambil Profil Pelanggan berdasarkan ID
   static Future<Pelanggan> fetchPelangganById(int pelangganId) async {

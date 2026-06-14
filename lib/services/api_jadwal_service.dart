@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class APIJadwalService {
   static const String baseUrl =
-      'https://bengkel-226557433828.us-central1.run.app/data';
+      'https://bengkel-39829692628.us-central1.run.app/data';
 
   static Future<List<JadwalService>> fetchJadwalServiceByKendaraan(
     int kendaraanId,
