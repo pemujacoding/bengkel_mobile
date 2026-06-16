@@ -20,7 +20,7 @@ class PelangganController extends GetxController {
   var currentUser = Rxn<Pelanggan>();
 
   static const String baseUrl =
-      'https://bengkel-226557433828.us-central1.run.app/data';
+      'https://bengkel-39829692628.us-central1.run.app/data';
 
   // =========================
   // LOAD PROFILE
